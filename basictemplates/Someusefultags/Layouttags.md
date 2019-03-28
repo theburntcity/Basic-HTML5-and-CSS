@@ -1,2 +1,2 @@
 Here are some lay out tags:
-<h1> through <h5>: heading tags for focus and emphasis 
+&lt;h1&gt; through &lt;h5&gt;: heading tags for focus and emphasis 
