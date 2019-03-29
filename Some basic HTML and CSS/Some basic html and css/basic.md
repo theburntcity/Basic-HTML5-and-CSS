@@ -1,6 +1,7 @@
 # Some basic HTML and CSS:
 
-This web page basic1 it needs alot of work. 
+This web page basic1(https://github.com/theburntcity/Basic-HTML5-and-CSS/blob/master/Some%20basic%20HTML%20and%20CSS/Some%20basic%20html%20and%20css/basicone.html) it needs alot of work.
+ 
 
 ## Some reference websites for html:
 * HTML TAGS: For the list of html tags: https://www.w3schools.com/TAGs/
