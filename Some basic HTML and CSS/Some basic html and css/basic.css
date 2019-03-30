@@ -1,0 +1,29 @@
+body{
+    background-color: blanchedalmond;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+header{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 50px;
+    font-weight: 700;
+}
+
+nav{
+    background-color: antiquewhite;
+}
+
+article{
+    margin-left: 5px;
+    width: 70%;
+    float: left;
+}
+
+aside{
+    margin-right: 5px;
+    float: right;
+}
+
