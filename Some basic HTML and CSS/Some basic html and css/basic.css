@@ -12,18 +12,62 @@ header{
     font-weight: 700;
 }
 
-nav{
-    background-color: antiquewhite;
-}
+
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: burlywood;
+  }
+  
+nav ul li {
+    float: left;
+  }
+  
+nav ul li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+nav ul li a:hover:not(.active) {
+    background-color: lightcoral;
+  }
+  
+  .active {
+    background-color: aliceblue;
+  }
 
 article{
+    margin-top: 12px;
     margin-left: 5px;
     width: 70%;
     float: left;
+    height: 250px;
 }
 
 aside{
+    margin-top: 12px;
     margin-right: 5px;
     float: right;
+    height: 250px;
 }
 
+
+main article ol {
+    padding: 0;
+    border: 1px solid rgb(20, 20, 20);
+  }
+  
+article ol .list {
+    padding: 8px 16px;
+    border-bottom: 1px solid rgb(19, 18, 18);
+  }
+  
+  article ol .list:last-child {
+    border-bottom: none
+  }
