@@ -2,7 +2,7 @@
 
 This [basic web page](https://github.com/theburntcity/Basic-HTML5-and-CSS/blob/master/Some%20basic%20HTML%20and%20CSS/Some%20basic%20html%20and%20css/basicone.html) it needs alot of work.
 
-For this [webpage](https://github.com/theburntcity/Basic-HTML5-and-CSS/blob/master/Some%20basic%20HTML%20and%20CSS/Some%20basic%20html%20and%20css/addsomecss.html) adding a litte style amkes it look a little bit better!!!
+For this [webpage](https://github.com/theburntcity/Basic-HTML5-and-CSS/blob/master/Some%20basic%20HTML%20and%20CSS/Some%20basic%20html%20and%20css/addsomecss.html) adding a litte style makes it look a little bit better!!!
 
 ## Some reference websites for html:
 * For the list of [HTML TAGS:](https://www.w3schools.com/TAGs/)
